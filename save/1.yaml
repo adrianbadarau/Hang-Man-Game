@@ -1,0 +1,24 @@
+---
+- !ruby/object:Player
+  player_name: Mihai
+  tries: 8
+  guess:
+  - C
+  - I
+  - C
+  - L
+- !ruby/object:Game
+  answer:
+  - C
+  - L
+  - I
+  - _
+  - _
+  - _
+  - _
+  - _
+  - I
+  - C
+  - _
+  word: CLIOMETRICS
+  win: false

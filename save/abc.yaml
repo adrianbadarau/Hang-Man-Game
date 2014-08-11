@@ -1,0 +1,6 @@
+--- !ruby/object:Player
+player_name: Adrian
+tries: 10
+guess:
+- F
+- O
